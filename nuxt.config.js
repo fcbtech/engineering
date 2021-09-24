@@ -4,11 +4,6 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  // https://nuxtjs.org/integrations/deployments/github-pages#deploy-nuxt-on-github-pages
-  router: {
-    base: '/engineering/',
-  },
-
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s - engineering',
